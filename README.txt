@@ -37,6 +37,13 @@ username = nikil2
 password = nikilprasaath
 '''
 
+Deployed link - https://nikilprasaath.pythonanywhere.com/
+
+I created a pythonanywhere account and I created a virtual environment and installed the requirements in it.
+And then I cloned my gitlab repository. Then I created a webapp by adding the path of the virtual environment and the project.
+Then I changed the allowed hosts in settings.py file.
+
+Video link - https://drive.google.com/file/d/1KQt68bWdf-SDQQ7FRngEC0R4OQyin_Qv/view?usp=sharing
 
 #TASK 1
 #regex
